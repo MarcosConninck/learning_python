@@ -1,3 +1,7 @@
+# Por Marcos Conninck, estudo do livro: "Entendendo Algoritmos: 
+# Um Guia Ilustrado Para Programadores e Outros Curiosos
+# Algoritmo de pesquisa binária
+###################################################################
 """
 This algorithm is a fastest way to find a number in a orderd list. O(log n)
 Better than check all numbers in the list, O(n)
