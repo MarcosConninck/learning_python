@@ -23,7 +23,7 @@ from itertools import chain
 from unidecode import unidecode
 
 # primeiro inserir o html
-caminho_html = 'exemplos\\html_lista.html'
+caminho_html = 'html_lista.html'
 with open(caminho_html, "r") as f:
     html_string = f.read()
 
