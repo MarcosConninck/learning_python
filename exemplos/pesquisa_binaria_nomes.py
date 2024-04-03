@@ -1,5 +1,3 @@
-# incompleto, revisar
-
 """
 Este projeto foi desenvolvido para encontrar um nome em uma lista, utilizando
 o algoritmo de busca binária em uma lista relativamente grande, podendo ser
