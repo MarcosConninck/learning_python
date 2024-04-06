@@ -5,8 +5,8 @@ Este README será atualizado e comentado conforme andamento da leitura do livro 
 Segue a lista dos códigos que serão apresentados:
 - Algoritmo de pesquisa binária (exponencialmente mais rápido que a pesquisa simples) ☑
 - Ordenação por seleção ☑
-- Quicksort (Mais rápido que a ordenação por seleção)
+- Quicksort (Mais rápido que a ordenação por seleção) ☑
 
 Grafos:
-  - Pesquisa em largura
+  - Pesquisa em largura ☑
   - Algoritmo de Dijkstra
