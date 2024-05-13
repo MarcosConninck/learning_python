@@ -4,7 +4,7 @@
 # first of all, in a list, we need to find the lower element, and its index
 # at second, append it to a new list
 list1 = [10, 20, 9, 30]
-list2 = [10, 20, 30, 9]
+list2 = [10, 20, 30, 7]
 list3 = [9, 10, 20, 30]
 
 
