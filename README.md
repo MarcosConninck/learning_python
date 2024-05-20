@@ -9,4 +9,4 @@ Segue a lista dos códigos que serão apresentados:
 
 Grafos:
   - Pesquisa em largura ☑
-  - Algoritmo de Dijkstra
+  - Algoritmo de Dijkstra ☑
