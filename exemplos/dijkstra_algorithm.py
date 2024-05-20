@@ -14,7 +14,7 @@ grafo['c']['fim'] = 3
 grafo['d'] = {}
 grafo['d']['fim'] = 1
 grafo['fim'] = {}
-print('grafo ', grafo)
+print('grafo: ', grafo)
 
 infinito = float('inf')
 custos: dict = {}
@@ -23,7 +23,7 @@ custos['b'] = 2
 custos['c'] = infinito
 custos['d'] = infinito
 custos['fim'] = infinito
-print('custos ', custos)
+print('custos: ', custos)
 
 pais: dict = {}
 pais['a'] = 'inicio'
@@ -31,7 +31,7 @@ pais['b'] = 'inicio'
 pais['c'] = 'a'
 pais['d'] = 'a', 'b', 'c'
 pais['fim'] = None
-print('pais ', pais)
+print('pais: ', pais)
 
 processados: list = []
 print('processados ', processados)

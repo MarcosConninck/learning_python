@@ -1,4 +1,4 @@
-# Por Marcos Conninck, estudo do livro: "Entendendo Algoritmos: 
+# Por Marcos Conninck, estudo do livro: "Entendendo Algoritmos:
 # Um Guia Ilustrado Para Programadores e Outros Curiosos
 # Algoritmo de pesquisa binária
 ###################################################################

@@ -47,7 +47,6 @@ marque o vértice como processado...
 repita
 """
 
-# encontra o custo mais baixo que ainda não foi processado
 print('\n#########################\n')
 
 
@@ -60,13 +59,13 @@ def ache_no_custo_mais_baixo(custos):
             custo_mais_baixo = custo
             vertice_custo_mais_baixo = vertice
     if vertice_custo_mais_baixo is not None:
-        print(f'vertice {vertice_custo_mais_baixo}, custo {custo_mais_baixo}')
+        print(f'vertice analisado: {
+              vertice_custo_mais_baixo}, custo {custo_mais_baixo}')
     return vertice_custo_mais_baixo
 
 
 vertice = ache_no_custo_mais_baixo(custos)
 # caso todos os vértices tenham sido processados, finaliza
-ciclo = 1
 while vertice is not None:
     custo = custos[vertice]
     vizinhos = grafo[vertice]
@@ -81,10 +80,7 @@ while vertice is not None:
             pais[n] = vertice
     # marca o vertice como processado, adicionando-o a lista processados
     processados.append(vertice)
-    print(processados)
     # encontra o próximo vértice a ser processado e o algoritmo é repetido.
-    print(f'caminho: {ciclo}°\n')
-    ciclo += 1
     vertice = ache_no_custo_mais_baixo(custos)
 
 
