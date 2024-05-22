@@ -6,7 +6,7 @@ Segue a lista dos códigos que serão apresentados:
 - Algoritmo de pesquisa binária (exponencialmente mais rápido que a pesquisa simples) ☑
 - Ordenação por seleção ☑
 - Quicksort (Mais rápido que a ordenação por seleção) ☑
-
-Grafos:
-  - Pesquisa em largura ☑
-  - Algoritmo de Dijkstra ☑
+- Pesquisa em largura ☑
+- Algoritmo de Dijkstra ☑
+- Algoritmos gulosos ☑
+- Programação Dinâmica ☑
