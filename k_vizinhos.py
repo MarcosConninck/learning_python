@@ -16,7 +16,7 @@ Digamos que se tenha 2 laranjas próximas ao x, mas apenas 1 toranja próxima,
 provavelmente 'x' é laranja
 """
 
-#################################################################
+###############################################################################
 
 """
     Criando sistema de recomendações.
@@ -30,6 +30,7 @@ outros usuários que têm o mesmo gosto... ao recomendar um filme, provavelmente
 ele também irá gostar, certo? mas como fazer para descobrir a distância entre
 eles?
 
+###############################################################################
 
     Extração de características:
 
@@ -79,7 +80,9 @@ distancia_conjuntos(jose, marcos)  # 4.899
 Quando maior a distância, mais longe estão.
 A comparação com k-vizinhos é descobrir quandos vizinhos possui mais perto
 para classificar como pertencendo a um grupo ou outro.
-
-
 Resumindo, a distância informa a similaridade entre os conjuntos.
+
+###############################################################################
+
+    Regressão
 """
