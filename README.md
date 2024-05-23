@@ -10,4 +10,5 @@ Segue a lista dos códigos que serão apresentados:
 - Algoritmo de Dijkstra ☑
 - Algoritmos gulosos ☑
 - Programação Dinâmica ☑
-- K-vizinhos mais próximos
+- K-vizinhos mais próximos ☑
+- Resumo de mais 10 algoritmos
